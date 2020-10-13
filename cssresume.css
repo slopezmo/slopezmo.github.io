@@ -1,0 +1,36 @@
+p{
+  color:red;
+}
+
+div{
+  color:navy;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+h2 {
+   color:green;
+ }
+a {
+  color:blue;
+}
+
+table {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  border-collapse: collapse;
+}
+
+th, td{
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+}
